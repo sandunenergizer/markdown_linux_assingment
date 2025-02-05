@@ -31,3 +31,10 @@
 | Content Cell  | Content Cell  |
 
  ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/HAMK_yhdistelma_vari_wikipedia.svg)
+
+## Assignment Step 2 & 3
+Following images are the terminal commands used as per the assignment. 
+![Terminal](Images/Assignment_4_Markdown_and_git_Terminal_Screenshot.png)
+![Nano](Images/Assignment_4_Markdown_and_git_GNU_Nano_Screenshot.png)
+
+However, I need to learn further on how to link the repository remotely to the github and push using linux command
